@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vit-Sakaria
 - 👀 I’m interested in solving real world problems and make attractive websites
-- 🌱 I’m currently learning DSA and Backend with Java
+- 🌱 I’m currently learning DSA and Backend with Python
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a coffe lover
 
